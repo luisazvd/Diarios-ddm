@@ -1,0 +1,7 @@
+Data: 15/08/2024
+
+Conteúdo:
+Revisão de tópicos vistos anteriormente, como lógica de programação, POO, algoritmos, padrões de projeto e a arquitetura de software.
+Com isso, aplicamos no projeto da aula de gestão de notas a utilização no Dart de expressão regular, map, isEmpty, split, classe e métodos, juntamente com o desenvolvimento de testes unitários para as funções criadas inicialmente.
+
+Verificação de tais aplicações seria através do repositório projeto_aula com os arquivos cpf.dart e cpf_teste.dart > https://github.com/luisazvd/projeto_aula
